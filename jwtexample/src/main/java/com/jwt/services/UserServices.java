@@ -1,6 +1,6 @@
 package com.jwt.services;
 
-import com.jwt.model.User.User;
+import com.jwt.model.User;
 import org.springframework.stereotype.Service;
 
 import java.util.ArrayList;

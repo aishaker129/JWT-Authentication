@@ -1,4 +1,4 @@
-package com.jwt.model.User;
+package com.jwt.model;
 
 import lombok.*;
 
